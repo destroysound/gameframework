@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level>
+  <name>Cave 1</name>
+  <leveldata>
+    <spikes y='400' x='-2064'/>
+    <spikes y='400' x='-2048'/>
+    <spikes y='400' x='-2032'/>
+    <spikes y='400' x='-2016'/>
+    <spikes y='400' x='-2000'/>
+    <spikes y='400' x='-1984'/>
+    <player y='384' x='-2512'/>
+    <turnip y='384' x='-2368'/>
+    <stalagmite y='384' x='-2416'/>
+    <stalagmite y='256' x='-2240'/>
+    <spikes y='400' x='-2272'/>
+    <spikes y='400' x='-2256'/>
+    <spikes y='400' x='-2240'/>
+    <spikes y='400' x='-2224'/>
+    <spikes y='400' x='-2208'/>
+    <spikes y='400' x='-2192'/>
+    <spikes y='400' x='-2176'/>
+    <spikes y='400' x='-2144'/>
+    <spikes y='400' x='-2160'/>
+    <spikes y='400' x='-2128'/>
+    <spikes y='400' x='-2112'/>
+    <spikes y='400' x='-2096'/>
+    <revspikes y='224' x='-2064'/>
+    <revspikes y='224' x='-2048'/>
+    <golds y='192' x='-2048'/>
+    <radish y='256' x='-1968'/>
+    <spikes y='400' x='-1952'/>
+    <spikes y='400' x='-1936'/>
+    <spikes y='400' x='-1904'/>
+    <spikes y='400' x='-1920'/>
+    <spikes y='400' x='-1888'/>
+    <spikes y='400' x='-1872'/>
+    <spikes y='400' x='-1840'/>
+    <spikes y='400' x='-1856'/>
+    <spikes y='400' x='-1824'/>
+    <spikes y='400' x='-1808'/>
+    <spikes y='400' x='-1792'/>
+    <spikes y='400' x='-1776'/>
+    <brick y='288' x='-1920'/>
+    <brick y='288' x='-1936'/>
+    <brick y='288' x='-1888'/>
+    <brick y='288' x='-1904'/>
+    <brick y='288' x='-1872'/>
+    <turnip y='272' x='-1920'/>
+    <turnip y='272' x='-1936'/>
+    <turnip y='272' x='-1888'/>
+    <turnip y='272' x='-1872'/>
+    <golds y='272' x='-1904'/>
+    <spikes y='288' x='-1728'/>
+    <spikes y='288' x='-1712'/>
+    <spikes y='288' x='-1696'/>
+    <stalagtite y='224' x='-1632'/>
+    <stalagtite y='224' x='-1600'/>
+    <stalagtite y='224' x='-1568'/>
+    <stalagtite y='224' x='-1536'/>
+    <stalagtite y='224' x='-1504'/>
+    <spikes y='304' x='-1440'/>
+    <spikes y='304' x='-1424'/>
+    <spikes y='304' x='-1408'/>
+    <radish y='288' x='-1472'/>
+    <spikes y='304' x='-1456'/>
+    <stalagtite y='176' x='-1472'/>
+    <golds y='304' x='-1328'/>
+    <turnip y='304' x='-1232'/>
+    <spikes y='320' x='-1184'/>
+    <spikes y='320' x='-1168'/>
+    <spikes y='320' x='-1136'/>
+    <spikes y='320' x='-1120'/>
+    <spikes y='320' x='-1088'/>
+    <spikes y='320' x='-1072'/>
+    <spikes y='320' x='-1040'/>
+    <spikes y='320' x='-1008'/>
+    <spikes y='320' x='-1024'/>
+    <spikes y='320' x='-992'/>
+    <spikes y='320' x='-960'/>
+    <spikes y='320' x='-944'/>
+    <spikes y='320' x='-928'/>
+    <spikes y='320' x='-912'/>
+    <spikes y='320' x='-896'/>
+    <spikes y='320' x='-768'/>
+    <spikes y='320' x='-768'/>
+    <spikes y='320' x='-784'/>
+    <spikes y='320' x='-800'/>
+    <spikes y='320' x='-816'/>
+    <spikes y='320' x='-832'/>
+    <spikes y='320' x='-848'/>
+    <spikes y='320' x='-864'/>
+    <brick y='304' x='-1392'/>
+    <brick y='288' x='-1392'/>
+    <brick y='272' x='-1392'/>
+    <brick y='256' x='-1392'/>
+    <brick y='240' x='-1392'/>
+    <brick y='224' x='-1392'/>
+    <brick y='224' x='-1392'/>
+    <brick y='208' x='-1392'/>
+    <brick y='304' x='-672'/>
+    <brick y='304' x='-656'/>
+    <brick y='304' x='-640'/>
+    <brick y='304' x='-624'/>
+    <brick y='304' x='-608'/>
+    <brick y='304' x='-592'/>
+    <brick y='304' x='-576'/>
+    <brick y='304' x='-560'/>
+    <brick y='304' x='-544'/>
+    <brick y='288' x='-656'/>
+    <brick y='272' x='-656'/>
+    <brick y='240' x='-640'/>
+    <brick y='256' x='-640'/>
+    <brick y='256' x='-624'/>
+    <brick y='240' x='-592'/>
+    <brick y='224' x='-608'/>
+    <brick y='224' x='-624'/>
+    <brick y='272' x='-592'/>
+    <brick y='272' x='-576'/>
+    <brick y='272' x='-560'/>
+    <brick y='240' x='-576'/>
+    <brick y='240' x='-560'/>
+    <brick y='192' x='-592'/>
+    <brick y='208' x='-608'/>
+    <brick y='208' x='-576'/>
+    <brick y='208' x='-560'/>
+    <brick y='208' x='-544'/>
+    <brick y='176' x='-544'/>
+    <brick y='176' x='-560'/>
+    <brick y='176' x='-576'/>
+    <brick y='224' x='-528'/>
+    <brick y='240' x='-512'/>
+    <brick y='256' x='-496'/>
+    <brick y='304' x='-528'/>
+    <brick y='272' x='-528'/>
+    <brick y='256' x='-544'/>
+    <brick y='176' x='-528'/>
+    <brick y='192' x='-496'/>
+    <brick y='192' x='-512'/>
+    <brick y='208' x='-480'/>
+    <brick y='224' x='-464'/>
+    <brick y='224' x='-496'/>
+    <brick y='272' x='-480'/>
+    <brick y='288' x='-512'/>
+    <brick y='288' x='-496'/>
+    <brick y='304' x='-480'/>
+    <brick y='288' x='-464'/>
+    <brick y='272' x='-448'/>
+    <brick y='256' x='-464'/>
+    <brick y='240' x='-448'/>
+    <brick y='288' x='-432'/>
+    <brick y='304' x='-432'/>
+    <brick y='256' x='-432'/>
+    <brick y='256' x='-400'/>
+    <brick y='256' x='-416'/>
+    <brick y='288' x='-400'/>
+    <brick y='288' x='-416'/>
+    <brick y='272' x='-384'/>
+    <brick y='304' x='-368'/>
+    <brick y='288' x='-368'/>
+    <radish y='160' x='-544'/>
+    <turnip y='192' x='-560'/>
+    <turnip y='256' x='-528'/>
+    <turnip y='288' x='-608'/>
+    <turnip y='256' x='-576'/>
+    <turnip y='272' x='-416'/>
+    <turnip y='304' x='-448'/>
+    <turnip y='224' x='-592'/>
+    <turnip y='160' x='-576'/>
+    <turnip y='240' x='-416'/>
+    <golds y='304' x='-496'/>
+    <golds y='240' x='-816'/>
+    <stalagtite y='272' x='-256'/>
+    <stalagtite y='272' x='-192'/>
+    <stalagtite y='272' x='-128'/>
+    <stalagtite y='272' x='-64'/>
+    <stalagtite y='272' x='0'/>
+    <brick y='304' x='-336'/>
+    <brick y='304' x='-352'/>
+    <golds y='304' x='496'/>
+    <radish y='288' x='-336'/>
+    <turnip y='256' x='256'/>
+    <brickarea y='112' x='-2528' height='304' width='16'/>
+    <brickarea y='400' x='-2512' height='16' width='240'/>
+    <brickarea y='272' x='-2080' height='144' width='16'/>
+    <brickarea y='416' x='-2272' height='16' width='208'/>
+    <brickarea y='272' x='-1968' height='144' width='16'/>
+    <brickarea y='416' x='-1968' height='16' width='208'/>
+    <brickarea y='416' x='-2064' height='16' width='96'/>
+    <brickarea y='208' x='-2080' height='16' width='48'/>
+    <brickarea y='272' x='-2288' height='16' width='80'/>
+    <brickarea y='304' x='-1936' height='16' width='80'/>
+    <brickarea y='304' x='-1760' height='16' width='80'/>
+    <brickarea y='304' x='-1680' height='16' width='48'/>
+    <brickarea y='320' x='-1760' height='112' width='16'/>
+    <brickarea y='304' x='-1632' height='16' width='176'/>
+    <brickarea y='320' x='-1472' height='16' width='288'/>
+    <brickarea y='208' x='-1632' height='16' width='144'/>
+    <brickarea y='160' x='-1488' height='48' width='16'/>
+    <brickarea y='160' x='-1472' height='16' width='16'/>
+    <brickarea y='352' x='-2224' height='16' width='64'/>
+    <brickarea y='320' x='-1152' height='16' width='16'/>
+    <brickarea y='320' x='-1104' height='16' width='16'/>
+    <brickarea y='320' x='-1056' height='16' width='16'/>
+    <brickarea y='320' x='-976' height='16' width='16'/>
+    <brickarea y='336' x='-1184' height='16' width='304'/>
+    <brickarea y='320' x='-880' height='16' width='16'/>
+    <brickarea y='336' x='-880' height='16' width='128'/>
+    <brickarea y='320' x='-752' height='32' width='16'/>
+    <brickarea y='320' x='-736' height='16' width='256'/>
+    <brickarea y='320' x='-480' height='16' width='320'/>
+    <brickarea y='320' x='-160' height='16' width='192'/>
+    <brickarea y='240' x='-256' height='32' width='288'/>
+    <brickarea y='80' x='-256' height='160' width='16'/>
+    <brickarea y='320' x='32' height='16' width='480'/>
+    <brickarea y='208' x='224' height='80' width='16'/>
+    <brickarea y='272' x='240' height='16' width='48'/>
+    <brickarea y='208' x='304' height='80' width='16'/>
+    <brickarea y='208' x='320' height='16' width='16'/>
+    <brickarea y='224' x='336' height='48' width='16'/>
+    <brickarea y='272' x='320' height='16' width='16'/>
+    <brickarea y='208' x='368' height='80' width='16'/>
+    <brickarea y='208' x='400' height='48' width='16'/>
+    <brickarea y='208' x='416' height='16' width='48'/>
+    <brickarea y='240' x='416' height='16' width='32'/>
+    <brickarea y='256' x='448' height='16' width='16'/>
+    <brickarea y='272' x='400' height='16' width='48'/>
+  </leveldata>
+</level>
